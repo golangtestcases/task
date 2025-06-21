@@ -5,8 +5,8 @@ import (
 	"math/rand"
 	"time"
 
-	"https://github.com/golangtestcases/task/internal/entity"
-	"https://github.com/golangtestcases/task/internal/repository"
+	"github.com/golangtestcases/task/internal/entity"
+	"github.com/golangtestcases/task/internal/repository"
 )
 
 type TaskUseCase struct {

@@ -3,10 +3,10 @@
 import (
 	"log"
 
-	"https://github.com/golangtestcases/task/internal/controller/task"
-	"https://github.com/golangtestcases/task/internal/repository"
-	"https://github.com/golangtestcases/task/internal/server"
-	"https://github.com/golangtestcases/task/internal/usecase"
+	"github.com/golangtestcases/task/internal/controller/task"
+	"github.com/golangtestcases/task/internal/repository"
+	"github.com/golangtestcases/task/internal/server"
+	"github.com/golangtestcases/task/internal/usecase"
 )
 
 func main() {

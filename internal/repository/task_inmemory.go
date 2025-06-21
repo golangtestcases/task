@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"https://github.com/golangtestcases/task/internal/entity"
+	"github.com/golangtestcases/task/internal/entity"
 )
 
 type inMemoryTaskRepository struct {

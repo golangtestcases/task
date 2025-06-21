@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"https://github.com/golangtestcases/task/internal/usecase"
+	"github.com/golangtestcases/task/internal/usecase"
 )
 
 type Handler struct {

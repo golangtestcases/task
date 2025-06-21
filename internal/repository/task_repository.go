@@ -1,6 +1,6 @@
 ﻿package repository
 
-import "https://github.com/golangtestcases/task/internal/entity"
+import "github.com/golangtestcases/task/internal/entity"
 
 type TaskRepository interface {
 	Create(task *entity.Task) error

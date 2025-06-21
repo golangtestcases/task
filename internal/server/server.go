@@ -3,7 +3,7 @@
 import (
 	"net/http"
 
-	"https://github.com/golangtestcases/task/internal/controller/task"
+	"github.com/golangtestcases/task/internal/controller/task"
 )
 
 type Server struct {
